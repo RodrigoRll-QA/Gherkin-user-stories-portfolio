@@ -1,4 +1,5 @@
 # language: pt
+@configuracao @ebac_shop
 Funcionalidade: Configurar produto
   Como cliente da EBAC-SHOP
   Quero configurar meu produto de acordo com meu tamanho e gosto
